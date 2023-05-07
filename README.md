@@ -7,3 +7,4 @@ Koodu n'ihu nke weebụsaịtị bụ ebe mepere emepe, nabata ka ị nyere aka 
 * [koodu n'ihu](https://github.com/xxai-art/web)
 * [Nchịkọta asụsụ maka saịtị ahụ n'ozuzu ya](https://github.com/xxai-art/web/tree/main/i18n)
 * [Ngwungwu asụsụ maka modul nbanye](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Weebụsaịtị akwụkwọ ọtụtụ asụsụ](https://github.com/xxai-doc)
