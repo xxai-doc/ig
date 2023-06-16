@@ -17,14 +17,14 @@ Asụsụ mmemme mmemme n'ihu bụ [@w5/coffee_plus](http://npmjs.com/@w5/coffee
 
 Mee na oru 3 ndị a
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Ihe ndebiri akara, ya na suffix `.mdt` , nwere ike na-ezo aka na faịlụ mpụga nwere syntax yiri `<+ ./coffee_plus/import.js>` .
+  Suffix bụ `.mdt` , ị nwere ike iji syntax yiri `<+ ./coffee_plus/import.js>` iji zoo aka na faịlụ mpụga, wee mepụta akara akara na suffix `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-Ntụgharị asụsụ Markdown agaghị atụgharị asụsụ koodu na njikọ, ma ga-echekwa ahịrịokwu atụgharịrị. Ọ bụrụ na agbanwegharịrị ntụgharị asụsụ mana emezighị ederede izizi, ime ya ọzọ agaghị edegharị mgbanwe ntụgharị asụsụ ahụ.
+  Ntụgharị asụsụ Markdown agaghị atụgharị asụsụ koodu na njikọ, ma ga-echekwa ahịrịokwu atụgharịrị. Ọ bụrụ na agbanwegharịrị ntụgharị asụsụ mana emezighị ederede izizi, ime ya ọzọ agaghị edegharị mgbanwe ntụgharị asụsụ ahụ.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Faịlụ asụsụ maka ịtụgharị `yaml` webụsaịtị ewepụtara.
+  Faịlụ asụsụ maka ịtụgharị `yaml` webụsaịtị ewepụtara.
