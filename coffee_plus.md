@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , tinye ụfọdụ atụmatụ na ndabere nke coffeescript syntax, lee [coffee_plus](./coffee_plus.md) .
 
-* kwupụta mgbanwe
+## kwupụta mgbanwe
 
 ```
 + var1, var2
 ```
 
-* akara ngosi
+## akara ngosi
 
 `:$` bụ maka ojiji na [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* mbubata ngwa ngwa
+## mbubata ngwa ngwa
 
 ```
 > zx/globals:
